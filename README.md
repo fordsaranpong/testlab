@@ -1,4 +1,3 @@
-"C:\Program Files\Java\jdk-17.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.2.3\lib\idea_rt.jar=64740:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.2.3\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\Lelouch\IdeaProjects\Lab18\out\production\Lab18 Lab18
 thread #2: 1
 thread #1: 1
 thread #1: 2
@@ -299,5 +298,3 @@ thread #3: 97
 thread #3: 98
 thread #3: 99
 thread #3: 100
-
-Process finished with exit code 0
